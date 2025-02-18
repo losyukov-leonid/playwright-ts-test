@@ -34,7 +34,8 @@
         "skipComments": true
       }
     ],
-    "playwright/expect-expect": 0
+    "playwright/expect-expect": 0,
+    "playwright/no-networkidle": 0
   },
   "parserOptions": {
     "ecmaVersion": 6,
